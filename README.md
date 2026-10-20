@@ -23,4 +23,4 @@ This code is about using physics-informed neural networks (PINNs) to invert the 
 
 (4) "2026 基于物理信息神经网络反演热加工过程界面传热系数.pdf" file: A published academic paper.
 
-Literature citation format: 曹流, 魏如威, 张沁丹. 基于物理信息神经网络反演热加工过程界面传热系数[J]. 特种铸造及有色合金, 2026, DOI:10.15980/j.tzzz.T20250455
+Literature citation format: Liu Cao, Ruwei Wei, Qindan Zhang. Inversion of Interfacial Heat Transfer Coefficient for Hot Working Process Based on Physics-Informed Neural Networks[J]. Special casting & nonferrous alloys, 2026, DOI:10.15980/j.tzzz.T20250455
